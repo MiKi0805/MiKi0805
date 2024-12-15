@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Michael Gusti Yanu Putra
+- 👀 I’m interested in game development, ai and automation
+- 🌱 I’m currently learning Godot and python
+- 📫 How to reach me: michaeladventure080510@gmail.com
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I have 'Miki' as a nickname, even tho it's written in that way, it pronounce 'Micky' in English.
