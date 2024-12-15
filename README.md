@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michael Gusti Yanu Putra
-- 👀 I’m interested in game development, ai and automation
+- 👀 I’m interested in game development, AI and automation
 - 🌱 I’m currently learning Godot and python
 - 📫 How to reach me: michaeladventure080510@gmail.com
 - 😄 Pronouns: He/him
