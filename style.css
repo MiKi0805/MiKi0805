@@ -1,0 +1,61 @@
+/*change background color to red*/
+body{
+    font-family: sans-serif;
+    background-color: #272946;
+}
+
+#center-container {
+    display: flex;
+    flex-direction: column;  /* Stack elements vertically */
+    justify-content: center; /* Horizontally center content */
+    align-items: center;     /* Vertically center content */
+    height: 100vh;           /* Full viewport height */
+}
+
+#text{
+    margin-left: 10%;
+    margin-right: 10%;
+    color: #fff;
+    display: flex;
+    flex-direction: column;  /* Stack elements vertically */
+    justify-content: center; /* Horizontally center content */
+    align-items: center;     /* Vertically center content */
+    height: 100vh;           /* Full viewport height */
+}
+
+#logo {
+    position: static;
+    width: 800px;    /* Adjust the width of the logo */
+    margin-bottom: 5%; /* Add space between the logo and the button */
+}
+
+#itchio-link button {
+    padding: 10px 10px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+
+    width: 200px;
+    height: 50px;
+
+    box-shadow: 3px 3px 1px #111324;
+
+    border: solid #eda031;
+    border-width: 2px;
+    border-radius: 15px;
+
+    background-color: #272946;
+}
+
+#itchio-link button:hover {
+    width: 220px;
+    height: 55px;
+
+    box-shadow: 10px 10px 5px #111324;
+
+    border: solid #eda031;
+    border-width: 3px;
+    border-radius: 20px;
+
+    background-color: #232540;
+}
